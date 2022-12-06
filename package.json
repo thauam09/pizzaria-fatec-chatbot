@@ -6,7 +6,7 @@
 		"start": "node app.js"
 	},
 	"dependencies": {
-		"express": "4.13.x",
+		"express": "4.17.x",
 		"ejs": "2.4.x",
 		"cloudant": "1.4.x",
 		"body-parser": "1.14.x",
